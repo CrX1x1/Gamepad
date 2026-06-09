@@ -1,4 +1,5 @@
-|Reference	|Qty	|Value	|DNP	|Exclude from BOM	|Exclude from Board	|Footprint	|Datasheet
+|Reference	|Qty	|Value	|DNP	|Exclude from BOM	|Exclude from Board	|Footprint	|Datasheet|
+|-|-|-|-|-|-|-|-|
 |A1,D16,E1,ESC1,N1-N3,Q1,R1,S1,W1	|11	|SW_Push	|	|	|	|Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB	|
 |CTRL1	|1	|SW_Push	|	|	|	|Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB	|
 |D1-D15	|15	|D_Small	|	|	|	|Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal	|
